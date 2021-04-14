@@ -1,3 +1,3 @@
 # Strapi application
-
-A quick description of your strapi application
+## Run this API before booting up the mw-blog-next site
+'npm run develop'
